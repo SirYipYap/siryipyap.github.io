@@ -1,7 +1,2 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-
-
-theme: jekyll-theme-minimal
-title: Testing
-description: Checking to see if this is the file I'm meant to edit
