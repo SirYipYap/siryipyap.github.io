@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f2f2f2;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+img {
+    width: 150px;
+}
+
+select {
+    margin: 5px;
+}
+
+.team {
+    margin-top: 30px;
+    padding: 10px;
+    border-top: 2px solid black;
+}
+
+.team-member {
+    background: white;
+    margin: 10px auto;
+    padding: 10px;
+    width: 300px;
+    border-radius: 8px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
